@@ -5,4 +5,4 @@ set -x
 time /usr/bin/git status
 
 # pkgx git
-time git status
+time pkgx git status
