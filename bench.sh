@@ -1,8 +1,8 @@
 #!/bin/bash
 set -x
 
-# system git
+: system git
 time /usr/bin/git status
 
-# pkgx git
+: pkgx git
 time pkgx git status
