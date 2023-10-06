@@ -1,4 +1,5 @@
-#!/bin/bash -x
+#!/bin/bash
+set -x
 
 : executing \'git --version\' with system git
 time /usr/bin/git --version
