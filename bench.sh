@@ -2,7 +2,7 @@
 set -x
 
 : system git
-time /usr/bin/git status
+time /usr/bin/git branch
 
 : pkgx git
-time pkgx git status
+time pkgx git branch
