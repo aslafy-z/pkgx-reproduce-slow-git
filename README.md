@@ -3,7 +3,7 @@
 ## Try within Codespaces
 
 - Start a codespace
-- Wait for it to execute pkgx installation, integration and caching
+- Wait for it to execute pkgx installation and preheat
 - Run `bash bench.sh`
 
 ## Try at home
